@@ -12,7 +12,7 @@ protocol I___VARIABLE_viperModuleName___ViewController: AnyObject {
 }
 
 class ___VARIABLE_viperModuleName___ViewController: UIViewController {
-    var presenter: I___VARIABLE_viperModuleName___ViewController?
+    var presenter: I___VARIABLE_viperModuleName___Presenter?
 
     override func viewDidLoad() {
         super.viewDidLoad()
