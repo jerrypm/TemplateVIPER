@@ -20,7 +20,7 @@ class ___VARIABLE_viperModuleName___Router: I___VARIABLE_viperModuleName___Route
 
 
 // PUT THIS CODE BELOW IN CONFIGURATOR FILE
-    //  static func ___VARIABLE_viperModuleName___Module() -> ___VARIABLE_viperModuleName___ViewController {
+    //  static func ___VARIABLE_viperModuleName___ConfigureModule() -> ___VARIABLE_viperModuleName___ViewController {
     //     let controller = ___VARIABLE_viperModuleName___ViewController()
     //     let router = ___VARIABLE_viperModuleName___Router(viewController: controller)
     //     let presenter = ___VARIABLE_viperModuleName___Presenter()
